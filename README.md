@@ -1,2 +1,2 @@
 # FSD-AIML-A
-this is the fsd repository 
+this is the fsd repository.
