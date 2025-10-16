@@ -5,7 +5,7 @@ function login() {
             console.log("Logged in");
             resolve("UserToken123");
         }, 500);
-    });.
+    });
 }
 
 // Simulate async data fetch
