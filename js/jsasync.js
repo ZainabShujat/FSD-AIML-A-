@@ -1,5 +1,5 @@
 // Simulate async login
-function login() {
+fnction login() {
     return new Promise((resolve) => {
         setTimeout(() => {
             console.log("Logged in");
